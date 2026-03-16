@@ -1,0 +1,5 @@
+dell@huyentrang MINGW64 ~/mcino-Introduction-to-Git-and-GitHub (main)
+$ git branch -vv
+  bug-fix-revert 881f2d5 Revert "Edit footer"
+  bug-fix-typo   ab5f4af Edit footer
+* main           5b25964 [origin/main] Submit merge branches
